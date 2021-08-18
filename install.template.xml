@@ -1,18 +1,16 @@
 <?xml version="1.0"?>
 
 <extension>
-	<name>PLUGIN_SQUEEZECLOUD</name>
-	<module>Plugins::SqueezeCloud::Plugin</module>
+	<name>PLUGIN_MINIDSPSHD</name>
+	<module>Plugins::MiniDspShd::Plugin</module>
 	<version>{{ env['VERSION'] }}</version>
-	<description>PLUGIN_SQUEEZECLOUD_DESC</description>
-	<icon>plugins/SqueezeCloud/html/images/icon.png</icon>
+	<description>PLUGIN_MINIDSPSHD_DESC</description>
 	<defaultState>enabled</defaultState>
 	<targetApplication>
 		<id>SlimServer</id>
-		<minVersion>7.5</minVersion>
+		<minVersion>7.9</minVersion>
     <maxVersion>*</maxVersion>
 	</targetApplication>
-  	<optionsURL>plugins/SqueezeCloud/settings/basic.html</optionsURL>
-  	<creator>Robert Siebert, Daniel Vijge, Robert Gibbon, David Blackman</creator>
-  	<email>spam+squeezebox@vijge.net</email>
+  	<optionsURL>plugins/MiniDspShd/settings/basic.html</optionsURL>
+  	<creator>frieburd</creator>
 </extension>
