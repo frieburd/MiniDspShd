@@ -1,15 +1,15 @@
 <extensions>
   <details>
-    <title lang="EN">SqueezeCloud Plugin</title>
+    <title lang="EN">MiniDspShd Plugin</title>
   </details>
   <plugins>
-    <plugin name="SqueezeCloud" version="0.11.5" minTarget="7.5" maxTarget="*">
-      <title lang="EN">SqueezeCloud</title>
-      <desc lang="EN">Browse, search and play urls from soundcloud</desc>
-      <url>https://danielvijge.github.io/SqueezeCloud/dev-builds/SqueezeCloud-0.11.5.zip</url>
-      <link>https://github.com/danielvijge/SqueezeCloud</link>
-      <sha>4a40a1a8d1c03c157fe052845afef4d1d03a26a2</sha>
-      <creator>Robert Siebert, Daniel Vijge, Robert Gibbon, David Blackman</creator>
+    <plugin name="MiniDspShd" version="1.0" minTarget="7.9" maxTarget="*">
+      <title lang="EN">MiniDspShd</title>
+      <desc lang="EN">Hardware volume control for MiniDSP SHD</desc>
+      <url>https://frieburd.github.io/MiniDspShd/./MiniDspShd-1.0.zip</url>
+      <link>https://github.com/frieburd/MiniDspShd</link>
+      <sha>31da5cca0bf8b06ceb0bc216066ed7beee137d12</sha>
+      <creator>frieburd</creator>
     </plugin>
   </plugins>
 </extensions>
