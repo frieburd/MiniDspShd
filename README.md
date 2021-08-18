@@ -5,7 +5,7 @@ hardware volume control of the MiniDSP SHD.
 
 TODO - add installation and setup instructions here.
 
-## Licence ##
+## License ##
 
 This work is distributed under the GNU General Public License version 2. See file LICENSE for
 full license details.
