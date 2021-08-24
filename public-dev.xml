@@ -3,12 +3,12 @@
     <title lang="EN">MiniDspShd Plugin</title>
   </details>
   <plugins>
-    <plugin name="MiniDspShd" version="1.0.2" minTarget="7.9" maxTarget="*">
+    <plugin name="MiniDspShd" version="1.0.3" minTarget="7.9" maxTarget="*">
       <title lang="EN">MiniDspShd</title>
       <desc lang="EN">Hardware volume control for MiniDSP SHD</desc>
-      <url>https://frieburd.github.io/MiniDspShd/dev-builds/MiniDspShd-1.0.2.zip</url>
+      <url>https://frieburd.github.io/MiniDspShd/dev-builds/MiniDspShd-1.0.3.zip</url>
       <link>https://github.com/frieburd/MiniDspShd</link>
-      <sha>0a11f98313f014eeb9a200e09b2eb581d917f4ff</sha>
+      <sha>77eb257f922471dc7b8ad4be5e0564a27e97ac9b</sha>
       <creator>frieburd</creator>
     </plugin>
   </plugins>
